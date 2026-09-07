@@ -1,0 +1,17 @@
+#忽略编译生成的可执行文件
+serve
+
+#忽略目标文件和其他构建目录
+*.o
+build/
+
+#忽略其他临时文件
+*.out
+serve
+*.o
+build/
+build/
+serve
+build/
+serve
+*.o
