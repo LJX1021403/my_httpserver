@@ -15,3 +15,5 @@ serve
 build/
 serve
 *.o
+src/main
+main
